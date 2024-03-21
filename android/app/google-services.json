@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29342898881",
+    "project_id": "fic12-olshop",
+    "storage_bucket": "fic12-olshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29342898881:android:13329a568fc9c309391240",
+        "android_client_info": {
+          "package_name": "com.example.flutter_onlineshop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2NpK5aogunwn1eVp7Gn7sDWtDG_Tt9u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
